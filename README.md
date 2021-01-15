@@ -1,6 +1,6 @@
 ﻿# Crowd counting with machine learning techniques
 
-This is the official repository of the seminar paper *Crowd counting with machine learning techniques*, which is part of the IBB master's course at University of Ljubljana, Slovenia. You can read the report [here]().
+This is the official repository of the seminar paper *Crowd counting with machine learning techniques*, which is part of the IBB master's course at University of Ljubljana, Slovenia. You can read the report [here](https://github.com/tersekmatija/crowd-counting-cnns/blob/master/tersekmatija_kljunmasa.pdf).
 
 In the paper we analyzed 5 CNN models for crowd counting and combined two to make our improvement. We provide the code of the improved model in a separate repository and we link the official implementations and papers of other models.
 
